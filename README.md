@@ -2,6 +2,8 @@
 
 Playground for `src/ExonViewerFactory.js`
 
+[Demo](http://exon-viewer.getforge.io/)
+
 To run, 
 
 ```
